@@ -1,0 +1,16 @@
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.csproj.AssemblyReference.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.AssemblyInfoInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.AssemblyInfo.cs
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.csproj.CoreCompileInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.deps.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.runtimeconfig.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.runtimeconfig.dev.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.genruntimeconfig.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.MODEL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\bin\Debug\netcoreapp3.1\Assignment.MODEL.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.REPOSITORY\obj\Debug\netcoreapp3.1\Assignment.REPOSITORY.csproj.CopyComplete

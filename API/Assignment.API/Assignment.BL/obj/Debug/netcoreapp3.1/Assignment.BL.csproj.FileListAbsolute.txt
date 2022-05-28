@@ -1,0 +1,10 @@
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.BL.deps.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.BL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.BL.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.csproj.AssemblyReference.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.AssemblyInfoInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.AssemblyInfo.cs
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.csproj.CoreCompileInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.pdb
