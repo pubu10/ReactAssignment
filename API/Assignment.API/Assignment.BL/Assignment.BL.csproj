@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment.MODEL\Assignment.MODEL.csproj" />
+    <ProjectReference Include="..\Assignment.REPOSITORY\Assignment.REPOSITORY.csproj" />
+  </ItemGroup>
+
 </Project>

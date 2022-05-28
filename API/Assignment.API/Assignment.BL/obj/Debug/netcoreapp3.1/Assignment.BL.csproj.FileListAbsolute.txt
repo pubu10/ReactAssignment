@@ -8,3 +8,11 @@ D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignme
 D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.csproj.CoreCompileInputs.cache
 D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.dll
 D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.BL.runtimeconfig.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.BL.runtimeconfig.dev.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.MODEL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.MODEL.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\bin\Debug\netcoreapp3.1\Assignment.REPOSITORY.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.csproj.CopyComplete
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.BL\obj\Debug\netcoreapp3.1\Assignment.BL.genruntimeconfig.cache

@@ -1,12 +1,21 @@
-import logo from "./logo.svg";
+import React, { useState, useEffect } from "react";
+import NavBar from "./components/NavBar";
+
+import StudentsView from "./views/Students/StudentsView";
+
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
+  useEffect(() => {});
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>HI</h1>
-      </header>
-    </div>
+    <>
+      <BrowserRouter>
+        <Routes>
+          <Route path="*" element={<NavBar />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
 

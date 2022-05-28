@@ -1,0 +1,10 @@
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\bin\Release\netcoreapp3.1\Assignment.MODEL.deps.json
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\bin\Release\netcoreapp3.1\Assignment.MODEL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\bin\Release\netcoreapp3.1\Assignment.MODEL.pdb
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.csproj.AssemblyReference.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.AssemblyInfoInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.AssemblyInfo.cs
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.csproj.CoreCompileInputs.cache
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.dll
+D:\ReactAssignment\ReactJSAssignment\ReactAssignment\API\Assignment.API\Assignment.MODEL\obj\Release\netcoreapp3.1\Assignment.MODEL.pdb
